@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Sheetal-04/Sheetal-04/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Sheetal Tyagi</h1>
 <h3 align="center">Aspiring to become a full-stack developer from INDIA</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
