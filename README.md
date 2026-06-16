@@ -1,4 +1,6 @@
-![header](https://github.com/Sheetal-04/Sheetal-04/blob/main/github-header-image%20(1).png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sheetal-04/Sheetal-04/main/header.jpg" alt="header" width="100%" />
+</p>
 
 <h1 align="center">Hi, I'm Sheetal Tyagi 👋</h1>
 <h3 align="center">Software Engineer @ Accenture · Full-Stack Developer · India 🇮🇳</h3>
@@ -84,13 +86,15 @@
 
 ### 🌟 Featured Projects
 
-**🎓 [OpportunityNexus](https://github.com/Sheetal-04) — College Placement Portal**
-`MERN · AWS (EB, EC2, ALB, ACM, IAM)`
-> Platform connecting students with college T&P cells. Integrated **25+ APIs** for real-time opportunities (+60% relevance), a resume builder used by **300+ students**, RBAC-secured auth, and **99.9% uptime** on AWS Elastic Beanstalk with load balancing.
+**OpportunityNexus — College Placement Portal**  ·  *MERN · AWS (EB, EC2, ALB, ACM, IAM)*
+- Platform connecting students with college T&P cells, integrating **25+ APIs** for real-time opportunities (+60% relevance).
+- Built a resume builder used by **300+ students** and an admin dashboard for managing drives.
+- Secured with RBAC auth and deployed for **99.9% uptime** on AWS Elastic Beanstalk with load balancing.
 
-**📚 EdTech Platform — Full-Stack Learning System**
-`MERN · Tailwind CSS · Razorpay · AWS Lambda (Serverless)`
-> Course marketplace with multi-role access used by **100+ test users**. Secure Razorpay payments (100% test success), Redux Toolkit state management (−50% frontend bugs), and a serverless backend revamp cutting **API latency by 40%** for 1k+ users.
+**EdTech Platform — Full-Stack Learning System**  ·  *MERN · Tailwind CSS · Razorpay · AWS Lambda*
+- Course marketplace with multi-role access (student / instructor / admin), used by **100+ test users**.
+- Integrated secure Razorpay payments with **100% transaction success** in testing.
+- Managed state with Redux Toolkit (−50% frontend bugs) and cut **API latency by 40%** via a serverless backend revamp.
 
 ---
 
