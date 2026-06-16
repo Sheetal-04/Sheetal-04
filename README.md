@@ -1,11 +1,11 @@
 ![header](https://github.com/Sheetal-04/Sheetal-04/blob/main/github-header-image%20(1).png)
 
 <h1 align="center">Hi, I'm Sheetal Tyagi 👋</h1>
-<h3 align="center">Software Development Engineer · India 🇮🇳</h3>
+<h3 align="center">Software Engineer @ Accenture · Full-Stack Developer · India 🇮🇳</h3>
 
 <p align="center">
-  Building reliable, scalable web applications across the full stack —
-  from clean React UIs to robust Node.js services and well-designed databases.
+  I build reliable, scalable web applications end-to-end —
+  from clean React UIs to robust Node.js services, well-designed databases, and cloud deployments on AWS.
 </p>
 
 <p align="center">
@@ -18,14 +18,27 @@
 
 ### 🚀 About Me
 
-- 💼 I'm a **Software Development Engineer** with **2+ years** of hands-on experience building production web applications.
-- 🧩 I work across the **full stack** — crafting responsive frontends and designing performant backend services & APIs.
-- 🌱 Currently deepening my expertise in **system design, cloud infrastructure, and scalable backends**.
+- 💼 **Associate Software Engineer at Accenture**, with **2+ years** of experience building production web applications.
+- 🧩 I work across the **full stack** — crafting responsive React frontends and designing performant Node.js/Express backends & REST APIs.
+- 🏗️ Previously **Project Lead** at Curious Business Solutions, where I led a team and shipped a SaaS meeting platform end-to-end.
+- 🌱 Currently deepening my expertise in **system design, scalable backends, and cloud infrastructure**.
 - 🤝 Always open to **collaborating on impactful web projects** and contributing to **open source**.
-- 💬 Ask me about **JavaScript/TypeScript, React, Node.js, Databases & DSA**.
+- 💬 Ask me about **JavaScript, React, Node.js, SQL/PL-SQL, AWS & DSA**.
 - 📫 Reach me at **sheetaltyagichd@gmail.com**.
-- 📄 [View my detailed experience & résumé](https://docs.google.com/document/d/1wzEaxBWHyDmFTjHk3SR4b-feOWi5cP2A/edit?usp=share_link&ouid=114132205147896064770&rtpof=true&sd=true)
 - ⚡ Fun fact: **With me, working is quite simple.**
+
+---
+
+### 💼 Experience
+
+**Accenture Solutions Pvt. Ltd.** — *Associate Software Engineer*  ·  Oct 2024 – Present
+- Built React-based UI components for internal tools and integrated frontends with REST APIs.
+- Completed Oracle SQL training; hands-on with complex queries, joins, and stored procedures.
+
+**Curious Business Solutions** — *Full Stack Developer | Project Lead*  ·  Apr 2024 – Oct 2024
+- Led end-to-end development of **Curious Connect**, a SaaS meeting platform, cutting onboarding time by **35%**.
+- Migrated MongoDB → SQL for a **45% performance boost** and more scalable queries.
+- Documented **100+ API endpoints** with Swagger and managed a team through to delivery.
 
 ---
 
@@ -34,47 +47,73 @@
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL%20%2F%20PL%2FSQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Backend & Databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-**Tools & Cloud**
+**Cloud & DevOps**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
+
+### 🌟 Featured Projects
+
+**🎓 [OpportunityNexus](https://github.com/Sheetal-04) — College Placement Portal**
+`MERN · AWS (EB, EC2, ALB, ACM, IAM)`
+> Platform connecting students with college T&P cells. Integrated **25+ APIs** for real-time opportunities (+60% relevance), a resume builder used by **300+ students**, RBAC-secured auth, and **99.9% uptime** on AWS Elastic Beanstalk with load balancing.
+
+**📚 EdTech Platform — Full-Stack Learning System**
+`MERN · Tailwind CSS · Razorpay · AWS Lambda (Serverless)`
+> Course marketplace with multi-role access used by **100+ test users**. Secure Razorpay payments (100% test success), Redux Toolkit state management (−50% frontend bugs), and a serverless backend revamp cutting **API latency by 40%** for 1k+ users.
+
+---
+
+### 🏅 Certifications
+
+![Azure AZ-900](https://img.shields.io/badge/Microsoft-AZ--900%20Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure AI-900](https://img.shields.io/badge/Microsoft-AI--900%20Azure%20AI%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheetal-04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheetal-04&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sheetal-04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheetal-04&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheetal-04&theme=tokyonight&hide_border=true" alt="github streak" />
+  <img src="https://streak-stats.demolab.com/?user=Sheetal-04&theme=tokyonight&hide_border=true" alt="github streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sheetal-04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sheetal-04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
 </p>
 
 ---
